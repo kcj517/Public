@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "watch_box": [
+    0,
+    0,
+    300,
+    300
+  ],
+  "alarm_after_seconds": 300,
+  "notice": ""
+}
