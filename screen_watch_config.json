@@ -1,11 +1,4 @@
 {
-  "enabled": true,
-  "watch_box": [
-    0,
-    0,
-    300,
-    300
-  ],
-  "alarm_after_seconds": 300,
-  "notice": ""
+  "version": "1.0.5",
+  "url": "https://raw.githubusercontent.com/kcj517/Public/main/screen_watch_static_alarm.exe"
 }
