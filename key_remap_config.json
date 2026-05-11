@@ -1,4 +1,6 @@
 {
-  "version": "1.1",
-  "exeUrl": "https://raw.githubusercontent.com/계정/레포/main/KeyRemapper.exe"
+  "-": {
+    "type": "macro",
+    "value": "0,right,wait:0.1,enter"
+  }
 }
