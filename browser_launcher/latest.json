@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "3.4.0",
   "zipUrl": "https://raw.githubusercontent.com/kcj517/Public/main/browser_launcher/BrowserAutoLauncher.zip",
   "notes": "EXE-only distribution. Settings are stored in APPDATA."
 }
