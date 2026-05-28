@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "zipUrl": "https://raw.githubusercontent.com/kcj517/Public/main/browser_launcher/BrowserAutoLauncher.zip",
+  "notes": "Fixed win32api GetSystemMetrics error"
+}
